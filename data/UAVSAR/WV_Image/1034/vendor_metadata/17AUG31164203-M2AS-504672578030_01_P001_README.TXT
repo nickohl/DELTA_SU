@@ -1,0 +1,11 @@
+copyrightText = "(C) COPYRIGHT 2019 DigitalGlobe, Inc., Longmont CO USA 80503.  DigitalGlobe and the DigitalGlobe logos are trademarks of DigitalGlobe, Inc. The use and/or dissemination of this data and/or of any product in any way derived there from are restricted. Unauthorized use and/or dissemination is prohibited.";
+version = "28.3";
+intro = "Thank you for ordering from DigitalGlobe! This directory contains both an Imagery Product and the corresponding Image Support Data(ISD) files that fulfill your order. The naming convention for the image is <acquisition time>-<product info>-<product id>.<format extension>";
+BEGIN_GROUP = PRODUCT_1
+	XMLFilename = "17AUG31164203-M2AS-504672578030_01_P001.XML";
+	licenseTxtFilename = "NEXTVIEW.TXT";
+	IMFFilename = "17AUG31164203-M2AS-504672578030_01_P001.IMD";
+	tilFilename = "17AUG31164203-M2AS-504672578030_01_P001.TIL";
+	RPC00BFilename = "17AUG31164203-M2AS-504672578030_01_P001.RPB";
+END_GROUP = PRODUCT_1
+END;
