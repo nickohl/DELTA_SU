@@ -9,7 +9,7 @@ dataset:
     directory: labels
   classes:
     - 0:
-        name: Water
+        name: Land
         color: 0x808080 0000FF
     - 1:
         name: Water
