@@ -1,0 +1,18 @@
+dataset:
+  images:
+    type: tiff
+    extension: _data.tif
+    directory: train
+  labels:
+    extension: _mask.png
+    type: tiff
+    directory: labels
+  classes:
+    - 0:
+        name: Land
+        color: 0x808080
+   - 1:
+        name: Water
+        color: 0x0000FF
+io:
+  tile_size: [512, 512]
