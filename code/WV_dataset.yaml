@@ -1,10 +1,10 @@
 dataset:
   images:
     type: tiff
-    extension: _data.tif
+    extension: _image.tif
     directory: train
   labels:
-    extension: _mask.png
+    extension: _label.tif
     type: tiff
     directory: labels
   classes:
